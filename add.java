@@ -1,4 +1,4 @@
-public class Add {
+public class add {
     public static void main(String[] args) {
         // Declare and initialize the two numbers
         int num1 = 10;
